@@ -2,7 +2,7 @@
 #
 # Configuration for staging environment - force build
 #
-version: 57cd0545-275e-4f33-b0e6-793bf12a3ee2
+version: 1.0
 app:
   # build id to deploy. if 'version' is commented out, the application is not deployed
   maven:
